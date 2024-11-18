@@ -3,6 +3,16 @@
 Custrack is a comprehensive web application designed to streamline the process of collecting, categorizing, and managing customer feedback. 
 This system enables both customers and administrators to efficiently communicate and track feedback while providing actionable insights for continuous improvement.
 
+# Implementation Images
+      To provide a better understanding of the application's workflow and features, I have included implementation images in this repository. These images showcase:
+
+            Home Page: Displays the landing page with a welcoming interface.
+            Feedback Submission: A detailed view of the feedback form with all required fields.
+            Track Feedback: Screenshot of the tracking feature showing feedback status with a unique track ID.
+            Admin Dashboard: Insights into the admin functionalities, including filtering feedback by category, status, replying to feedback, and updating status.
+            Reports Section: Graphical representations and insights highlighting trends and areas for improvement.
+            
+      These images will help users and reviewers understand the system's flow and functionality at a glance.
 
 # Technologies Used
       Frontend: React.js
