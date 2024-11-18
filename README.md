@@ -8,7 +8,8 @@ For a detailed explanation of the project, refer to the [Documentation](Customer
 
 # Screen Recording
 Watch a demonstration of how Custrack works:  
-[Click here to view the screen recording](Custrack.mp4)
+[Click here to view the screen recording](Custrack.mp4) 
+or https://drive.google.com/file/d/1GA6cbXhDzwu3WYTm5A9AV1KsTmH5lwTg/view?usp=sharing
 
 # Implementation Images
       To provide a better understanding of the application's workflow and features, I have included implementation images in this repository. These images showcase:
