@@ -1,6 +1,7 @@
 
 # Custrack: Customer Feedback Management System
 Custrack is a comprehensive web application designed to streamline the process of collecting, categorizing, and managing customer feedback. This system enables both customers and administrators to efficiently communicate and track feedback while providing actionable insights for continuous improvement.
+
 ------------------------------------------------------------------------------------------------------------
 
 # Technologies Used
@@ -11,16 +12,16 @@ Styling: CSS, Bootstrap
 Others: Chart.js (for reports and graphs), Email.js (for feedback confirmation emails)
 
 # Features
-Home: Introduces the platform and guides users on how to submit feedback.
-About: Provides details about the application and its purpose.
-Feedback: Allows customers to submit their feedback with options for categories like complaints, suggestions, and compliments.
-Track Feedback: Enables customers to track the status of their feedback using a unique Track ID.
-Admin Login:
-  Secured access for administrators to:
-  Filter feedback by category and status.
-  Respond to customer feedback.
-  Change feedback status.
-  Generate reports with graphical insights.
+      Home: Introduces the platform and guides users on how to submit feedback.
+      About: Provides details about the application and its purpose.
+      Feedback: Allows customers to submit their feedback with options for categories like complaints, suggestions, and compliments.
+      Track Feedback: Enables customers to track the status of their feedback using a unique Track ID.
+      Admin Login:
+        Secured access for administrators to:
+        Filter feedback by category and status.
+        Respond to customer feedback.
+        Change feedback status.
+        Generate reports with graphical insights.
   
 # List of Modules
 1. Home Module
