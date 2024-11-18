@@ -6,6 +6,10 @@ This system enables both customers and administrators to efficiently communicate
 # Documentation  
 For a detailed explanation of the project, refer to the [Documentation](Customer%20Feedback%20Tracker%20-%20Documentation.pdf).
 
+# Screen Recording
+Watch a demonstration of how Custrack works:  
+[Click here to view the screen recording](Custrack.mp4)
+
 # Implementation Images
       To provide a better understanding of the application's workflow and features, I have included implementation images in this repository. These images showcase:
 
