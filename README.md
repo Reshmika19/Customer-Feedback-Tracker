@@ -3,6 +3,9 @@
 Custrack is a comprehensive web application designed to streamline the process of collecting, categorizing, and managing customer feedback. 
 This system enables both customers and administrators to efficiently communicate and track feedback while providing actionable insights for continuous improvement.
 
+# Documentation  
+For a detailed explanation of the project, refer to the [Documentation](Customer%20Feedback%20Tracker%20-%20Documentation.pdf).
+
 # Implementation Images
       To provide a better understanding of the application's workflow and features, I have included implementation images in this repository. These images showcase:
 
